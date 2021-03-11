@@ -14,4 +14,4 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210301b | écriture dans un fichier texte au format CSV |
 | TD20210308	| lecture en mode caractères depuis un fichier texte |
 | TD20210308b	| lecture en mode lignes depuis un fichier texte |
-
+| TD20210311 | lecture en mode champs depuis un fichier texte et refresh pointeurs de chaînes |
