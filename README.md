@@ -17,4 +17,5 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210311 | lecture en mode champs depuis un fichier texte et refresh pointeurs de chaînes, structures | |
 | TD20210315 | structures d'un entête d'un fichier .WAV| |
 | TD20210322 | écriture fichier binaire| |
+| TD20210325 | pointeurs | |
 
