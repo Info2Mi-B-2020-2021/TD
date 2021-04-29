@@ -22,6 +22,7 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210415 | structures (review), allocation dynamique de mémoire |
 | TD20210419 | allocation dynamique de mémoire |
 | TD20210426 | reallocation dynamique de mémoire |
+| TD20210429 | reallocation dynamique de mémoire (suite) |
 
 Lien pour dessiner des graphes 2D à partir d'un fichie .csv : https://chart-studio.plotly.com/create/#/
 
