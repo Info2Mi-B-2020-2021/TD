@@ -25,6 +25,7 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210429 | reallocation dynamique de mémoire (suite) |
 | TD20210503 | reallocation dynamique de mémoire (suite) - à terminer pour le 6 mai |
 | TD20210510 | image bitmap - description et accès au contenu |
+| TD20210517 | compilation séparée |
 
 Lien pour dessiner des graphes 2D à partir d'un fichie .csv : https://chart-studio.plotly.com/create/#/
 
