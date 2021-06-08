@@ -28,6 +28,7 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210517 | compilation séparée |
 | TD20210520 | liste tableau |
 | TD20210531 | liste tableau + dynamique |
+| TD20210607 | listes chainées |
 
 Lien pour dessiner des graphes 2D à partir d'un fichie .csv : https://chart-studio.plotly.com/create/#/
 
